@@ -80,5 +80,6 @@ uploads/
 settings_production.py
 werobot_session.db
 
-DjangoBlog/settings.py
+*settings.py
+*utils.py
 out.txt
